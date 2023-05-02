@@ -2,4 +2,4 @@
 
 Please report your UniSat Inscribe related issues here:
 
-- https://github.com/unisat-wallet/inscribing-issues/issues
+- [Inscribing Issues](https://github.com/unisat-wallet/inscribing-issues/issues) 
